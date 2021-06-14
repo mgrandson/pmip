@@ -1,0 +1,1 @@
+Este es un archivo de prueba, solo queremos comprobar que el texto se convierta a mayusculas y minusculas.
